@@ -1,4 +1,4 @@
-# Dope – Full Stack Real-Time Chat Application  
+# Wire – Full Stack Real-Time Chat Application  
 
 Dope is a powerful and modern real-time chat application built using the **MERN stack** and **Socket.io**, designed to deliver seamless messaging with dynamic online user status. With a focus on security, performance, and a sleek user experience, Dope integrates JWT authentication, advanced global state management, and a beautifully crafted UI. Whether you're a beginner exploring full-stack development or an advanced developer, Dope offers valuable insights into real-time communication and modern web technologies.  
 
